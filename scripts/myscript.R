@@ -5,3 +5,5 @@ library(sf)
 library(raster)
 data <- "a"
 data2 <- 'b'
+
+new.data <- "c"
