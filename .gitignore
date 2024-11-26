@@ -3,7 +3,7 @@
 .RData
 .Ruserdata
 
-## data to ignore
+## data folder to ignore
 /data
 
 ## test file to ignore
